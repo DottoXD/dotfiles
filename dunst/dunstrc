@@ -1,0 +1,54 @@
+[global]
+    monitor = 0
+    follow = none
+    
+    width = 450
+    height = (0, 300)
+    origin = bottom-center
+    offset = (0, 75) 
+    corner_radius = 28
+    frame_width = 2
+    gap_size = 10
+    
+    font = Google Sans Flex 11
+    padding = 20
+    horizontal_padding = 20
+    text_icon_padding = 15
+    
+    alignment = left
+    vertical_alignment = center
+    
+    icon_position = left
+    min_icon_size = 48
+    max_icon_size = 64
+    icon_corner_radius = 16
+
+    progress_bar = true
+    progress_bar_height = 12
+    progress_bar_frame_width = 0
+    progress_bar_corner_radius = 100
+    progress_bar_min_width = 300
+    progress_bar_max_width = 360
+
+    format = "<b>%s</b>\n%b"
+
+[urgency_low]
+    background = "#1b2122"
+    foreground = "#dee3e5"
+    frame_color = "#3f484b"
+    highlight = "#84d2e6"
+    timeout = 4
+
+[urgency_normal]
+    background = "#1b2122"
+    foreground = "#dee3e5"
+    frame_color = "#84d2e6"
+    highlight = "#84d2e6"
+    timeout = 8
+
+[urgency_critical]
+    background = "#93000a"
+    foreground = "#ffdad6"
+    frame_color = "#ffb4ab"
+    highlight = "#ffb4ab"
+    timeout = 0

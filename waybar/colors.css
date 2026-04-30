@@ -1,0 +1,14 @@
+@define-color primary #84d2e6;
+@define-color onPrimary #003640;
+@define-color primaryContainer #004e5c;
+@define-color onPrimaryContainer #aaedff;
+@define-color secondaryContainer #334a51;
+@define-color onSecondaryContainer #cee7ee;
+@define-color surface #0f1416;
+@define-color onSurface #dee3e5;
+@define-color onSurfaceVariant #bfc8cb;
+@define-color surfaceContainer #1b2122;
+@define-color surfaceContainerHigh #252b2d;
+@define-color errorContainer #93000a;
+@define-color onErrorContainer #ffdad6;
+@define-color outlineVariant #3f484b;

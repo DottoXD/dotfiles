@@ -1,0 +1,25 @@
+[config]
+
+[templates.hyprland]
+input_path = "~/.config/matugen/hyprland.conf"
+output_path = "~/.config/hypr/colors.conf"
+
+[templates.waybar]
+input_path = "~/.config/matugen/waybar.css"
+output_path = "~/.config/waybar/colors.css"
+
+[templates.kitty]
+input_path = "~/.config/matugen/kitty.conf"
+output_path = "~/.config/kitty/colors.conf"
+
+[templates.rofi]
+input_path = "~/.config/matugen/rofi.rasi"
+output_path = "~/.config/rofi/theme.rasi"
+
+[templates.gtk4]
+input_path = "~/.config/matugen/gtk.css"
+output_path = "~/.config/gtk-4.0/gtk.css"
+
+[templates.fastfetch]
+input_path = "~/.config/matugen/fastfetch.jsonc"
+output_path = "~/.config/fastfetch/config.jsonc"

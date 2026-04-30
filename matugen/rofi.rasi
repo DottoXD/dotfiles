@@ -1,0 +1,10 @@
+* {
+    bg-col:          {{colors.surface_container.default.hex}}f2;
+    bg-col-light:    {{colors.surface_container_high.default.hex}};
+    border-col:      {{colors.outline.default.hex}};
+    selected-col:    {{colors.primary_container.default.hex}};
+    on-selected:     {{colors.on_primary_container.default.hex}};
+    text-col:        {{colors.on_surface.default.hex}};
+    text-alt:        {{colors.on_surface_variant.default.hex}};
+    accent-col:      {{colors.primary.default.hex}};
+}
