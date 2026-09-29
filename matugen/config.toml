@@ -1,8 +1,8 @@
 [config]
 
 [templates.hyprland]
-input_path = "~/.config/matugen/hyprland.conf"
-output_path = "~/.config/hypr/colors.conf"
+input_path = "~/.config/matugen/hyprland.lua"
+output_path = "~/.config/hypr/colors.lua"
 
 [templates.waybar]
 input_path = "~/.config/matugen/waybar.css"
