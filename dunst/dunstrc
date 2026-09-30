@@ -33,17 +33,17 @@
     format = "<b>%s</b>\n%b"
 
 [urgency_low]
-    background = "#1b2122"
-    foreground = "#dee3e5"
-    frame_color = "#3f484b"
-    highlight = "#84d2e6"
+    background = "#1c2024"
+    foreground = "#e0e2e8"
+    frame_color = "#42474e"
+    highlight = "#9acbfa"
     timeout = 4
 
 [urgency_normal]
-    background = "#1b2122"
-    foreground = "#dee3e5"
-    frame_color = "#84d2e6"
-    highlight = "#84d2e6"
+    background = "#1c2024"
+    foreground = "#e0e2e8"
+    frame_color = "#9acbfa"
+    highlight = "#9acbfa"
     timeout = 8
 
 [urgency_critical]

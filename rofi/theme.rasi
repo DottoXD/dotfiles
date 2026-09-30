@@ -1,10 +1,10 @@
 * {
-    bg-col:          #1b2122f2;
-    bg-col-light:    #252b2d;
-    border-col:      #899295;
-    selected-col:    #004e5c;
-    on-selected:     #aaedff;
-    text-col:        #dee3e5;
-    text-alt:        #bfc8cb;
-    accent-col:      #84d2e6;
+    bg-col:          #1c2024f2;
+    bg-col-light:    #272a2e;
+    border-col:      #8c9198;
+    selected-col:    #0b4a72;
+    on-selected:     #cde5ff;
+    text-col:        #e0e2e8;
+    text-alt:        #c2c7cf;
+    accent-col:      #9acbfa;
 }
